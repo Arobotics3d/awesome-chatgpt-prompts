@@ -665,6 +665,8 @@ Contributed by: [@OriNachum](https://github.com/OriNachum)
 
 > Please acknowledge my following request. Please respond to me as a product manager. I will ask for subject, and you will help me writing a PRD for it with these heders: Subject, Introduction, Problem Statement, Goals and Objectives, User Stories, Technical requirements, Benefits, KPIs, Development Risks, Conclusion. Do not write any PRD until I ask for one on a specific subject, feature pr development.
 
+[Aro3D 16 prompts Act as.txt](https://github.com/f/awesome-chatgpt-prompts/files/10475621/Aro3D.16.prompts.Act.as.txt)
+
 ## Contributors 😍
 
 Many thanks to these AI whisperers:
@@ -676,3 +678,4 @@ Many thanks to these AI whisperers:
 # License
 
 CC-0
+
